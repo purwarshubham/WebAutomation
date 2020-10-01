@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Selenium Framework]">
+  <listeners>
+    <listener class-name="com.wa.qa.ExtentReportListener.ExtentTestNGITestListener"/>
+  </listeners>
+  <test thread-count="5" name="FrameWork Demo(failed)">
+    <classes>
+      <class name="com.wa.qa.testcases.DashBoardPageTest">
+        <methods>
+          <include name="validateToolTipContent"/>
+          <include name="setup"/>
+          <include name="quit"/>
+        </methods>
+      </class> <!-- com.wa.qa.testcases.DashBoardPageTest -->
+    </classes>
+  </test> <!-- FrameWork Demo(failed) -->
+</suite> <!-- Failed suite [Selenium Framework] -->

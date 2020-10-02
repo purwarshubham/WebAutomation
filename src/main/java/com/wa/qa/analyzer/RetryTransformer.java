@@ -1,5 +1,6 @@
-package com.wa.qa.analyzer;
+package main.java.com.wa.qa.analyzer;
 
+import main.java.com.wa.qa.analyzer.RetryAnalyzer;
 import org.testng.IAnnotationTransformer;
 import org.testng.annotations.ITestAnnotation;
 

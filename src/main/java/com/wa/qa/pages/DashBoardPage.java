@@ -1,7 +1,7 @@
-package com.wa.qa.pages;
+package main.java.com.wa.qa.pages;
 
 import com.google.common.util.concurrent.Uninterruptibles;
-import com.wa.qa.base.TestBase;
+import main.java.com.wa.qa.base.TestBase;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

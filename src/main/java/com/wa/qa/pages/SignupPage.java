@@ -1,4 +1,4 @@
-package com.wa.qa.pages;
+package main.java.com.wa.qa.pages;
 
 public class SignupPage {
 }

@@ -1,6 +1,7 @@
-package com.wa.qa.util;
+package main.java.com.wa.qa.util;
 
-import com.wa.qa.base.TestBase;
+
+import main.java.com.wa.qa.base.TestBase;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

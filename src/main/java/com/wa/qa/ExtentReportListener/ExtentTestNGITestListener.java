@@ -1,8 +1,7 @@
-package com.wa.qa.ExtentReportListener;
+package main.java.com.wa.qa.ExtentReportListener;
 
 import com.aventstack.extentreports.*;
-import com.aventstack.extentreports.markuputils.Markup;
-import com.wa.qa.util.TestUtil;
+import main.java.com.wa.qa.util.TestUtil;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;

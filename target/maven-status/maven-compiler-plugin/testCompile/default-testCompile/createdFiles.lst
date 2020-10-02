@@ -1,4 +1,4 @@
-com/wa/qa/testcases/DashBoardPageTest.class
-com/wa/qa/testcases/SignupPageTest.class
-com/wa/qa/testcases/RetryTestClass.class
-com/wa/qa/testcases/LoginPageTest.class
+test/java/com/wa/qa/testcases/RetryTestClass.class
+test/java/com/wa/qa/testcases/SignupPageTest.class
+test/java/com/wa/qa/testcases/DashBoardPageTest.class
+test/java/com/wa/qa/testcases/LoginPageTest.class

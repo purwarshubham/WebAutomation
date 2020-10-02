@@ -12,6 +12,9 @@
     <artifactId>WebAutomation</artifactId>
 
     <build>
+        <finalName>container-test</finalName>
+        <sourceDirectory>src</sourceDirectory>
+
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -33,6 +36,15 @@
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
+
+
+        <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>3.7.0.1746</version>
+        </plugin>
+
+
         </plugins>
     </build>
 
@@ -87,9 +99,6 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
-
-
-
 
     </dependencies>
 

@@ -1,7 +1,7 @@
-package com.wa.qa.base;
+package main.java.com.wa.qa.base;
 
-import com.wa.qa.util.TestUtil;
-import com.wa.qa.util.WebEventListener;
+import main.java.com.wa.qa.util.TestUtil;
+import main.java.com.wa.qa.util.WebEventListener;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;

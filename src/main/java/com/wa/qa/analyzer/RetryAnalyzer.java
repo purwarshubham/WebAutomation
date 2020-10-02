@@ -1,4 +1,4 @@
-package com.wa.qa.analyzer;
+package main.java.com.wa.qa.analyzer;
 
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;

@@ -1,6 +1,6 @@
-package com.wa.qa.util;
+package main.java.com.wa.qa.util;
 
-import com.wa.qa.base.TestBase;
+import main.java.com.wa.qa.base.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;

@@ -1,14 +1,16 @@
-package com.wa.qa.testcases;
+package test.java.com.wa.qa.testcases;
 
-import com.wa.qa.base.TestBase;
-import com.wa.qa.pages.DashBoardPage;
-import com.wa.qa.pages.LoginPage;
+import main.java.com.wa.qa.base.TestBase;
+import main.java.com.wa.qa.pages.DashBoardPage;
+import main.java.com.wa.qa.pages.LoginPage;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.util.logging.Logger;
+
+import static main.java.com.wa.qa.base.TestBase.initialization;
 
 public class DashBoardPageTest extends TestBase {
 

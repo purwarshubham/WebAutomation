@@ -1,10 +1,14 @@
-/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/analyzer/RetryAnalyzer.java
-/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/base/TestBase.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/test/java/com/wa/qa/testcases/SignupPageTest.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/test/java/com/wa/qa/testcases/LoginPageTest.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/ExtentReportListener/ExtentTestNGITestListener.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/pages/DashBoardPage.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/ExtentReportListener/ExtentManager.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/pages/LoginPage.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/test/java/com/wa/qa/testcases/RetryTestClass.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/test/java/com/wa/qa/testcases/DashBoardPageTest.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/analyzer/RetryAnalyzer.java
+/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/base/TestBase.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/util/WebEventListener.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/util/TestUtil.java
-/Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/pages/LoginPage.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/pages/SignupPage.java
 /Users/shubhampurwar/IdeaProjects/Coding/WebAutomation/src/main/java/com/wa/qa/analyzer/RetryTransformer.java

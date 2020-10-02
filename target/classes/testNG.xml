@@ -4,12 +4,12 @@
 <suite name="Selenium Framework">
 
     <listeners>
-        <listener class-name="com.wa.qa.ExtentReportListener.ExtentTestNGITestListener"></listener>
+        <listener class-name="main.java.com.wa.qa.ExtentReportListener.ExtentTestNGITestListener"></listener>
     </listeners>
 
     <test name="FrameWork Demo">
         <classes>
-            <class name="com.wa.qa.testcases.DashBoardPageTest"/>
+            <class name="test.java.com.wa.qa.testcases.DashBoardPageTest"/>
        <!--     <class name="com.wa.qa.testcases.LoginPageTest"/>-->
         </classes>
     </test>

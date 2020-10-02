@@ -4,7 +4,7 @@
 <suite name="Selenium Framework">
     <test name="FrameWork Demo">
         <classes>
-            <class name="com.wa.qa.testcases.DashBoardPageTest"/>
+            <class name="test.java.com.wa.qa.testcases.DashBoardPageTest"/>
         </classes>
     </test>
 </suite>

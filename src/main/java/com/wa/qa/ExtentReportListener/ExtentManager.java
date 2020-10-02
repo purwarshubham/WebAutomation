@@ -1,4 +1,4 @@
-package com.wa.qa.ExtentReportListener;
+package main.java.com.wa.qa.ExtentReportListener;
 
 import com.aventstack.extentreports.AnalysisStrategy;
 import com.aventstack.extentreports.ExtentReports;

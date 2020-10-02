@@ -1,8 +1,8 @@
-package com.wa.qa.testcases;
+package test.java.com.wa.qa.testcases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import com.wa.qa.analyzer.*;
+
 
 public class RetryTestClass {
 
